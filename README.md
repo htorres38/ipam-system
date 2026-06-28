@@ -1,9 +1,8 @@
 # IP Address Management (IPAM) System
 
 A small database for managing a network's IP addresses — keeping track of VLANs,
-subnets, and which IPs are assigned or free. I started from an IT asset-tracking
-database I built in a database course, then redesigned it into a network-focused
-IPAM system and designed the addressing scheme myself.
+subnets, and which IPs are assigned or free. I designed the network's addressing
+scheme and built the database to manage it.
 
 ## What it does
 
